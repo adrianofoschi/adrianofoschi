@@ -11,7 +11,7 @@ Full-stack engineer focused on distributed systems, system architecture, and shi
 
 [![Konio](https://avatars.githubusercontent.com/u/140590333?s=18)](https://github.com/konio-io) **[Konio](https://github.com/konio-io)** — Native mobile wallet for Koinos blockchain | iOS, Android, TypeScript, React Native ([github](https://github.com/konio-io))
 
-[![Kuku Games](https://avatars.githubusercontent.com/u/164148863?s=18)](https://github.com/kuku-games) **[Kuku Games](https://github.com/kuku-games)** — Decentralized price prediction prototype platform on Koinos | Typescript, Assemblyscript, React ([github](https://github.com/kuku-games))
+[![Kuku Games](https://avatars.githubusercontent.com/u/164148863?s=18)](https://github.com/kuku-games) **[Kuku Games](https://kuku.games)** — Decentralized price prediction prototype platform on Koinos | Typescript, Assemblyscript, React ([github](https://github.com/kuku-games))
 
 ## Skills
 
