@@ -1,6 +1,6 @@
 # Adriano Foschi
 
-Full-stack engineer with expertise in distributed systems and system design.
+Full-stack engineer focused on distributed systems, system architecture, and shipping robust products.
 
 ## Personal Projects
 
@@ -11,7 +11,5 @@ Full-stack engineer with expertise in distributed systems and system design.
 [![Konio](https://avatars.githubusercontent.com/u/140590333?s=24)](https://github.com/konio-io) **[Konio](https://github.com/konio-io)** — Native mobile wallet for Koinos blockchain | iOS, Android, TypeScript
 
 ## Skills
-
-Backend, Frontend, Mobile Development, System Architecture, Cloud Infrastructure
 
 [Full CV](https://rxresu.me/adrianofoschi/cv)
