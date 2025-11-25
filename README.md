@@ -1,18 +1,12 @@
 # Adriano Foschi
 
-Full-stack software engineer with expertise in distributed systems, scalable architecture, and end-to-end product development. I design and build robust applications with a focus on code quality, maintainability, and user experience.
+I'm a software engineer passionate about solving complex technical problems and shipping production-grade software. My experience spans full-stack development and system design. I approach every project with attention to detail and a commitment to clean, well-tested code.
 
 ---
 
-## About Me
+## Personal Projects
 
-I'm a software engineer passionate about solving complex technical problems and shipping production-grade software. My experience spans full-stack development, cloud infrastructure, and system design. I approach every project with attention to detail and a commitment to clean, well-tested code.
-
----
-
-## My Organizations
-
-I own and actively develop three software organizations:
+I actively develop several projects:
 
 ### **[Konio](https://github.com/konio-io)** — Blockchain Wallet
 A mobile wallet application providing secure asset management and seamless integration with blockchain networks. Built with modern technologies for performance and reliability.
