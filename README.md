@@ -1,60 +1,15 @@
 # Adriano Foschi
 
-I'm a software engineer passionate about solving complex technical problems and shipping production-grade software. My experience spans full-stack development and system design. I approach every project with attention to detail and a commitment to clean, well-tested code.
-
----
+Full-stack engineer with expertise in distributed systems and system design.
 
 ## Personal Projects
 
-I actively develop several projects:
+- **[Veive](https://veive.io)** — Modular and extensible smart account development framework ([github](https://github.com/veive-io))
+- **[Sovrano](https://sovrano.io)** — Decentralized barrierless and feeless smart wallet | Privacy & security focused ([github](https://github.com/sovrano-io))
+- **[Konio](https://github.com/konio-io)** — Native mobile wallet for Koinos blockchain | iOS, Android, TypeScript
 
-### **[Konio](https://github.com/konio-io)** — Blockchain Wallet
-A mobile wallet application providing secure asset management and seamless integration with blockchain networks. Built with modern technologies for performance and reliability.
+## Skills
 
-[Visit Konio](https://konio.io) | [GitHub](https://github.com/konio-io)
+Backend, Frontend, Mobile Development, System Architecture, Cloud Infrastructure
 
----
-
-### **[Veive](https://github.com/veive-io)** — Smart Account Protocol
-An advanced smart account framework providing modular transaction validation, execution, and authorization systems. Designed for extensibility and security-first principles.
-
-[Documentation](https://docs.veive.io) | [GitHub](https://github.com/veive-io)
-
----
-
-### **[Sovrano](https://github.com/sovrano-io)** — Infrastructure & Privacy
-Privacy-focused infrastructure and tools for decentralized applications.
-
-[GitHub](https://github.com/sovrano-io)
-
----
-
-## Technical Expertise
-
-**Backend & Systems**
-- Node.js, distributed systems architecture
-- Database design and optimization
-- Cloud infrastructure and DevOps
-- API design and integration
-
-**Frontend & Mobile**
-- TypeScript, JavaScript (React, Vue, React Native)
-- Native mobile development (iOS, Android)
-- Modern web application development
-
-**Software Craftsmanship**
-- Clean code principles and design patterns
-- Testing and quality assurance
-- System scalability and performance optimization
-
----
-
-## Let's Connect
-
-I'm interested in discussing architecture decisions, software design, and building great products.
-
-Check out my [full CV](https://rxresu.me/adrianofoschi/cv) for detailed experience and qualifications.
-
----
-
-**Open to opportunities in:** Backend Engineering • Full-Stack Development • Systems Architecture
+[Full CV](https://rxresu.me/adrianofoschi/cv)
