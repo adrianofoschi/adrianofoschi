@@ -11,7 +11,7 @@
     },
     "customFields": [],
     "picture": {
-      "url": "https://storage.rxresu.me/cmgpm83ua0ifa8g5dqzw6iil0/pictures/t97ffs71cpz8tkt0aot62ne4.jpg",
+      "url": "https://storage.rxresu.me/cmgpm83ua0ifa8g5dqzw6iil0/pictures/cremr8h3a4ayqh6mr52d1mu1.jpg",
       "size": 64,
       "aspectRatio": 1,
       "borderRadius": 0,
@@ -22,6 +22,61 @@
       }
     }
   },
+  "metadata": {
+    "css": {
+      "value": "",
+      "visible": false
+    },
+    "page": {
+      "margin": 24,
+      "format": "a4",
+      "options": {
+        "breakLine": true,
+        "pageNumbers": true
+      }
+    },
+    "notes": "",
+    "theme": {
+      "text": "#000000",
+      "primary": "#475569",
+      "background": "#ffffff"
+    },
+    "layout": [
+      [
+        [
+          "profiles",
+          "summary",
+          "experience",
+          "education",
+          "projects",
+          "volunteer",
+          "references"
+        ],
+        [
+          "skills",
+          "interests",
+          "certifications",
+          "awards",
+          "publications",
+          "languages"
+        ]
+      ]
+    ],
+    "template": "kakuna",
+    "typography": {
+      "font": {
+        "family": "Lora",
+        "subset": "latin",
+        "variants": [
+          "regular"
+        ],
+        "size": 14
+      },
+      "lineHeight": 1.5,
+      "hideIcons": false,
+      "underlineLinks": true
+    }
+  },
   "sections": {
     "summary": {
       "name": "Profilo",
@@ -29,7 +84,7 @@
       "separateLinks": true,
       "visible": true,
       "id": "summary",
-      "content": "<p><strong>CTO e Technical Lead con oltre 12 anni di esperienza</strong>, il cui percorso professionale evidenzia una forte <strong>propensione per l'innovazione e l'apprendimento continuo</strong>. A partire da una solida base come Sviluppatore Full Stack, <strong>ho sviluppato competenze in architettura software e ingegneria</strong>, padroneggiando pattern di design sia frontend che backend.</p><p>Questa attitudine al cambiamento è dimostrata dall'<strong>adozione recente di tecnologie emergenti</strong>: ho guidato lo <strong>sviluppo di agenti AI</strong> per l'automazione, e ho realizzato progetti personali nello <strong>spazio Web3</strong>, come wallet e smart account. Combino la leadership tecnica e la visione architetturale con la capacità di assimilare e applicare rapidamente nuovi paradigmi.</p>"
+      "content": "<p><strong>CTO e Technical Lead con oltre 12 anni di esperienza</strong>, il cui percorso professionale evidenzia una forte <strong>propensione per l'innovazione e l'apprendimento continuo</strong>. A partire da una solida base come Sviluppatore Full Stack, <strong>ho sviluppato competenze in architettura software e ingegneria</strong>, padroneggiando pattern di design sia frontend che backend.</p><p>Questa attitudine al cambiamento è dimostrata dall'<strong>adozione recente di tecnologie emergenti</strong>: ho guidato lo <strong>sviluppo di agenti AI</strong> per l'automazione, e ho realizzato progetti personali nello <strong>spazio Web3</strong>, come wallet e smart account. Combino la leadership tecnica e la visione architettonica con la capacità di assimilare e applicare rapidamente nuovi paradigmi.</p>"
     },
     "awards": {
       "name": "Premi",
@@ -123,7 +178,7 @@
           "position": "Chief Technology Officer (CTO)",
           "location": "Verona",
           "date": "Da Gennaio 2024",
-          "summary": "<p>L'attività ha incluso la <strong>definizione dell'architettura software</strong> e la <strong>direzione delle scelte tecnologiche</strong> a livello aziendale, assicurando il pieno allineamento con gli obiettivi di business. Le responsabilità hanno riguardato la gestione di <strong>sistemi complessi multi-tenant</strong>, risolvendo sfide fondamentali come la <strong>scalabilità</strong> e l'implementazione di <strong>Access Control List (ACL)</strong> robusti. È stata curata la <strong>direzione e il coordinamento</strong> dei team di sviluppo, ottimizzando i workflow operativi. Si è provveduto all'implementazione di <strong>sistemi di autenticazione avanzati e sicuri</strong> e allo sviluppo di <strong>agenti AI</strong>. L'infrastruttura di supporto ha fatto uso della containerizzazione con <strong>Docker</strong> e di <strong>servizi AWS scalabili</strong> per garantire performance e resilienza.</p>",
+          "summary": "<p>Ho definito l'<strong>architettura software</strong> e guidato le scelte tecnologiche a livello aziendale, assicurando l'allineamento con gli obiettivi di business. Le responsabilità includono la <strong>gestione di sistemi complessi multi-tenant, l'affrontamento di sfide di scalabilità e l'implementazione di robusti Access Control List (ACL)</strong>. Ho diretto e coordinato i team di sviluppo, ottimizzando i workflow. Ho implementato <strong>sistemi di autenticazione avanzati e sicuri</strong> e sviluppato <strong>agenti AI</strong> per l'automazione dei processi e l'applicazione dell'intelligenza artificiale. L'infrastruttura ha sfruttato <strong>Docker</strong> e servizi <strong>AWS</strong> scalabili.</p>",
           "url": {
             "label": "",
             "href": "https://4hse.com"
@@ -149,7 +204,7 @@
           "position": "Sviluppatore Web Freelance",
           "location": "https://freelancer.com",
           "date": "2013 - 2015",
-          "summary": "<p>È stato fornito un <strong>servizio completo</strong> che includeva la <strong>gestione integrale dei progetti</strong> per i clienti. Tale ruolo ha compreso la <strong>definizione dell'ambito progettuale</strong>, la successiva <strong>progettazione della soluzione</strong> e l'<strong>esecuzione dello sviluppo</strong> di applicazioni web altamente personalizzate, destinate ad aziende operanti in diversi settori industriali.</p>",
+          "summary": "<p>Ho fornito un servizio completo, gestendo la <strong>gestione completa dei progetti</strong> per i clienti. Questo ruolo ha comportato la definizione dell'ambito del progetto, la progettazione della soluzione e l'esecuzione dello <strong>sviluppo di applicazioni web altamente personalizzate</strong> per aziende operanti in vari settori.</p>",
           "url": {
             "label": "",
             "href": ""
@@ -162,7 +217,7 @@
           "position": "Server Administrator",
           "location": "Barletta",
           "date": "2017-2013",
-          "summary": "<p>È stata gestita l'<strong>infrastruttura di web hosting</strong>, includendo l'<strong>amministrazione diretta dei virtual host</strong> e la <strong>configurazione del server</strong> per una pluralità di domini. Le responsabilità hanno coperto l'installazione, la manutenzione e l'ottimizzazione di piattaforme <strong>CMS</strong> e applicazioni web, garantendo costantemente la <strong>stabilità e la sicurezza</strong> del servizio erogato.</p>",
+          "summary": "<p>Ho gestito l'infrastruttura di web hosting, inclusa l'<strong>amministrazione diretta di virtual host</strong> e la configurazione del server per più domini. Le responsabilità hanno coperto l'<strong>installazione, manutenzione e ottimizzazione di piattaforme CMS</strong> e applicazioni web, assicurando la stabilità e la sicurezza del servizio.</p>",
           "url": {
             "label": "",
             "href": ""
@@ -175,7 +230,7 @@
           "position": "Insegnante",
           "location": "Triggiano",
           "date": "2010 - 2011",
-          "summary": "<p>È stato condotto un <strong>corso professionale intensivo</strong> incentrato sui <strong>concetti fondamentali di programmazione</strong> e sui <strong>principi del web design</strong>. L'attività ha incluso la responsabilità della <strong>formazione e del mentoring</strong> di professionisti in formazione, focalizzandosi sullo sviluppo e la gestione di progetti web completi.</p>",
+          "summary": "<p>Ho condotto un corso professionale intensivo focalizzato sui concetti fondamentali di programmazione e i principi del web design. <strong>Responsabile della formazione e del mentoring</strong> di professionisti in formazione nello sviluppo e nella gestione di progetti web completi.</p>",
           "url": {
             "label": "",
             "href": "https://www.devitidemarco.edu.it/"
@@ -542,60 +597,5 @@
       ]
     },
     "custom": {}
-  },
-  "metadata": {
-    "template": "kakuna",
-    "layout": [
-      [
-        [
-          "profiles",
-          "summary",
-          "experience",
-          "education",
-          "projects",
-          "volunteer",
-          "references"
-        ],
-        [
-          "skills",
-          "interests",
-          "certifications",
-          "awards",
-          "publications",
-          "languages"
-        ]
-      ]
-    ],
-    "css": {
-      "value": "",
-      "visible": false
-    },
-    "page": {
-      "margin": 24,
-      "format": "a4",
-      "options": {
-        "breakLine": true,
-        "pageNumbers": true
-      }
-    },
-    "theme": {
-      "background": "#ffffff",
-      "text": "#000000",
-      "primary": "#475569"
-    },
-    "typography": {
-      "font": {
-        "family": "Lora",
-        "subset": "latin",
-        "variants": [
-          "regular"
-        ],
-        "size": 14
-      },
-      "lineHeight": 1.5,
-      "hideIcons": false,
-      "underlineLinks": true
-    },
-    "notes": ""
   }
 }
