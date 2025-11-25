@@ -1,0 +1,601 @@
+{
+  "basics": {
+    "name": "Adriano Foschi",
+    "headline": "CTO & Web3 Full Stack Developer",
+    "email": "adri.foschi@gmail.com",
+    "phone": "+393921218208",
+    "location": "Bari, Italy",
+    "url": {
+      "label": "",
+      "href": ""
+    },
+    "customFields": [],
+    "picture": {
+      "url": "https://storage.rxresu.me/cmgpm83ua0ifa8g5dqzw6iil0/pictures/cremr8h3a4ayqh6mr52d1mu1.jpg",
+      "size": 64,
+      "aspectRatio": 1,
+      "borderRadius": 0,
+      "effects": {
+        "hidden": false,
+        "border": false,
+        "grayscale": false
+      }
+    }
+  },
+  "metadata": {
+    "css": {
+      "value": "",
+      "visible": false
+    },
+    "page": {
+      "margin": 24,
+      "format": "a4",
+      "options": {
+        "breakLine": true,
+        "pageNumbers": true
+      }
+    },
+    "notes": "",
+    "theme": {
+      "text": "#000000",
+      "primary": "#475569",
+      "background": "#ffffff"
+    },
+    "layout": [
+      [
+        [
+          "profiles",
+          "summary",
+          "experience",
+          "education",
+          "projects",
+          "volunteer",
+          "references"
+        ],
+        [
+          "skills",
+          "interests",
+          "certifications",
+          "awards",
+          "publications",
+          "languages"
+        ]
+      ]
+    ],
+    "template": "kakuna",
+    "typography": {
+      "font": {
+        "family": "Lora",
+        "subset": "latin",
+        "variants": [
+          "regular"
+        ],
+        "size": 14
+      },
+      "lineHeight": 1.5,
+      "hideIcons": false,
+      "underlineLinks": true
+    }
+  },
+  "sections": {
+    "summary": {
+      "name": "Summary",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "summary",
+      "content": "<p><strong>CTO and Technical Lead with over 12 years of experience</strong>, whose professional journey highlights a strong <strong>propensity for experimentation and continuous learning</strong>. Starting from a solid foundation as a Full Stack Developer, <strong>expertise has been developed in software architecture and engineering</strong>, mastering both frontend and backend design patterns.</p><p>This aptitude for change is demonstrated by the <strong>recent adoption of emerging technologies</strong>: the <strong>development of AI agents</strong> for automation has been led, and personal projects in the <strong>Web3 space</strong>, such as wallets and smart accounts, have been delivered. Technical leadership and architectural vision are combined with the ability to quickly assimilate and apply new paradigms.</p>"
+    },
+    "awards": {
+      "name": "Awards",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "awards",
+      "items": [
+        {
+          "id": "brfcuk0twz4eettclp92d64s",
+          "visible": true,
+          "title": "Koinos Hackathon",
+          "awarder": "Koinos Group",
+          "date": "2023",
+          "summary": "<p>Awarded first place in the official Koinos Hackathon for the development of <strong>Konio</strong>, a native mobile wallet for the Koinos blockchain. The project showcased an advanced implementation and superior user experience for mobile blockchain adoption.</p>",
+          "url": {
+            "label": "",
+            "href": "https://koinos.io"
+          }
+        },
+        {
+          "id": "b7xwmhgkdlqzcydw8e6l9ezn",
+          "visible": true,
+          "title": "Ambito Sociale 5",
+          "awarder": "I.T.E. de Viti de Marco",
+          "date": "2006 - 2007",
+          "summary": "<p>Scholarship awarded for the development and deployment of a <strong>Unified Institutional Web Portal</strong> designed to serve five municipalities in the Province of Bari. The project encompassed requirements analysis, architectural design, and implementation of functionalities for social services management and public communication.</p>",
+          "url": {
+            "label": "",
+            "href": "https://www.devitidemarco.edu.it"
+          }
+        }
+      ]
+    },
+    "certifications": {
+      "name": "Certifications",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": false,
+      "id": "certifications",
+      "items": []
+    },
+    "education": {
+      "name": "Education",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "education",
+      "items": [
+        {
+          "id": "uniba",
+          "visible": true,
+          "institution": "University of Bari",
+          "studyType": "Bachelor's Degree in Computer Science",
+          "area": "Computer Science",
+          "score": "106/110",
+          "date": "2009 - 2013",
+          "summary": "<p>Specialized course focused on integrating technical computer science skills with digital communication and marketing strategies.<br><em>Thesis</em>: <strong>Data Warehousing and Distributed Analysis (Big Data)</strong></p>",
+          "url": {
+            "label": "",
+            "href": "https://www.uniba.it/"
+          }
+        },
+        {
+          "id": "diploma",
+          "visible": true,
+          "institution": "I.T.E. Antonio de Viti de Marco",
+          "studyType": "Computer Programming Diploma",
+          "area": "Triggiano, Italy",
+          "score": "",
+          "date": "2003 - 2008",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": "https://www.devitidemarco.edu.it/"
+          }
+        }
+      ]
+    },
+    "experience": {
+      "name": "Experience",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "experience",
+      "items": [
+        {
+          "id": "4hse",
+          "visible": true,
+          "company": "4HSE",
+          "position": "Chief Technology Officer (CTO)",
+          "location": "Verona",
+          "date": "Since January 2024",
+          "summary": "<p>Defined the <strong>software architecture</strong> and drove company-wide technological choices, ensuring alignment with business goals. Responsibilities included <strong>managing complex multi-tenant systems, addressing scalability challenges, and implementing robust Access Control Lists (ACLs)</strong>. Directed and coordinated development teams, optimizing workflows. Implemented <strong>advanced, secure authentication systems</strong> and developed <strong>AI agents</strong> for process automation and applied artificial intelligence. The infrastructure leveraged <strong>Docker</strong> and scalable <strong>AWS services</strong>.</p>",
+          "url": {
+            "label": "",
+            "href": "https://4hse.com"
+          }
+        },
+        {
+          "id": "etime",
+          "visible": true,
+          "company": "E-Time Software House",
+          "position": "Full Stack Developer",
+          "location": "Verona",
+          "date": "2015 - 2023",
+          "summary": "<p><strong>Full-Stack Technology Consulting</strong> provided to clients in highly regulated and innovative sectors, including <strong>Banking, Insurance</strong>, and online learning platforms (<strong>LMS</strong>, e.g., Docebo). The work was conducted using <strong>Scrum/Agile methodologies</strong> and covered the entire project lifecycle, from initial strategic consulting and design to the development and deployment of custom web solutions.</p>",
+          "url": {
+            "label": "",
+            "href": "https://e-time.it"
+          }
+        },
+        {
+          "id": "freelance",
+          "visible": true,
+          "company": "Self-employed",
+          "position": "Freelance Web Developer",
+          "location": "https://freelancer.com",
+          "date": "2013 - 2015",
+          "summary": "<p>Provided end-to-end service, handling <strong>complete project management</strong> for clients. This role involved defining project scope, designing the solution, and then executing the <strong>development of highly customized web applications</strong> for businesses operating in various sectors.</p>",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "euuxyejnu0h8bn2vehg76tib",
+          "visible": true,
+          "company": "Hitech",
+          "position": "Server Administrator",
+          "location": "Barletta",
+          "date": "2017-2013",
+          "summary": "<p>Managed the web hosting infrastructure, including direct <strong>administration of virtual hosts</strong> and server configuration for multiple domains. Responsibilities covered the <strong>installation, maintenance, and optimization of CMS platforms</strong> and web applications, ensuring service stability and security.</p>",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "hitech",
+          "visible": true,
+          "company": " I.T.E. de Viti de Marco",
+          "position": "Teacher",
+          "location": "Triggiano",
+          "date": "2010 - 2011",
+          "summary": "<p>Led an intensive professional course focused on foundational programming concepts and web design principles. <strong>Responsible for training and mentoring</strong> aspiring professionals in developing and managing comprehensive web projects.</p>",
+          "url": {
+            "label": "",
+            "href": "https://www.devitidemarco.edu.it/"
+          }
+        },
+        {
+          "id": "basbzblum18exer623n0me71",
+          "visible": true,
+          "company": "I.T.E. De Viti De Marco",
+          "position": "Lead Software Developer",
+          "location": "Triggiano",
+          "date": "2006 - 2007",
+          "summary": "<p>Full-cycle development of two software applications dedicated to educational and school management: <strong>\"Scrutini\"</strong> (software for grade management and school administration) and <strong>\"Geco\"</strong> (an educational editor for teaching business economics). Both projects required complete software lifecycle management.</p>",
+          "url": {
+            "label": "",
+            "href": "https://www.devitidemarco.edu.it/"
+          }
+        }
+      ]
+    },
+    "volunteer": {
+      "name": "Volunteering",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": false,
+      "id": "volunteer",
+      "items": []
+    },
+    "interests": {
+      "name": "Interests",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "interests",
+      "items": [
+        {
+          "id": "v1n7d34x80g9l6pd140dsnb7",
+          "visible": true,
+          "name": "Web3",
+          "keywords": [
+            "DeFi",
+            "Tokenomics",
+            "Smart Contracts",
+            "Blockchain"
+          ]
+        },
+        {
+          "id": "svcrd00gd3sa8ypvcgas51yq",
+          "visible": true,
+          "name": "Software Architecture",
+          "keywords": [
+            "Design Patterns",
+            "Distributed Architectures",
+            "Scalability",
+            "Cloud/Serverless",
+            "Software Engineering",
+            "Ai"
+          ]
+        }
+      ]
+    },
+    "languages": {
+      "name": "Languages",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "languages",
+      "items": [
+        {
+          "id": "italian",
+          "visible": true,
+          "name": "Italian",
+          "description": "Native",
+          "level": 5
+        },
+        {
+          "id": "english",
+          "visible": true,
+          "name": "English",
+          "description": "Basic",
+          "level": 2
+        }
+      ]
+    },
+    "profiles": {
+      "name": "Profiles",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "profiles",
+      "items": [
+        {
+          "id": "github",
+          "visible": true,
+          "network": "GitHub",
+          "username": "adrianofoschi",
+          "icon": "github",
+          "url": {
+            "label": "",
+            "href": "https://github.com/adrianofoschi"
+          }
+        },
+        {
+          "id": "linkedin",
+          "visible": true,
+          "network": "LinkedIn",
+          "username": "adrianofoschi",
+          "icon": "linkedin",
+          "url": {
+            "label": "",
+            "href": "https://linkedin.com/in/adrianofoschi"
+          }
+        },
+        {
+          "id": "telegram",
+          "visible": true,
+          "network": "Telegram",
+          "username": "adrihoke",
+          "icon": "telegram",
+          "url": {
+            "label": "",
+            "href": "https://t.me/adrihoke"
+          }
+        },
+        {
+          "id": "ij5egb1r1o3ulvqof15cy2sd",
+          "visible": true,
+          "network": "X",
+          "username": "adrihoke",
+          "icon": "x",
+          "url": {
+            "label": "",
+            "href": "https://x.com/adrihoke"
+          }
+        }
+      ]
+    },
+    "projects": {
+      "name": "Projects",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "projects",
+      "items": [
+        {
+          "id": "sovrano",
+          "visible": true,
+          "name": "Sovrano",
+          "description": "Smart Wallet with WebAuthn/Passkeys",
+          "date": "2025",
+          "summary": "<p><strong>Non-custodial Smart Wallet and programmable Smart Account</strong> for the Koinos blockchain. It ensures immediate and <strong>barrierless access</strong> through innovative authentication leveraging <strong>OpenID and Passkeys</strong> standards. Designed as an <strong>extensible Smart Account</strong> for future modular features.</p>",
+          "keywords": [
+            "Blockchain",
+            "Wallet",
+            "WebAuthn",
+            "Smart Contracts"
+          ],
+          "url": {
+            "label": "sovrano.io",
+            "href": "https://sovrano.io"
+          }
+        },
+        {
+          "id": "veive",
+          "visible": true,
+          "name": "Veive",
+          "description": "Modular Smart Account Framework",
+          "date": "2024",
+          "summary": "<p><strong>Opensource framework that enables modular Smart Accounts</strong> on the Koinos blockchain (inspired by ERC-7579). Its goal is to <strong>remove barriers to blockchain adoption</strong> by allowing universal onboarding and offering customizable account extensions.</p>",
+          "keywords": [
+            "Blockchain",
+            "Framework",
+            "Smart Accounts",
+            "ERC-7579"
+          ],
+          "url": {
+            "label": "veive.io",
+            "href": "https://veive.io"
+          }
+        },
+        {
+          "id": "konio",
+          "visible": true,
+          "name": "Konio",
+          "description": "Cross-Platform Blockchain Wallet",
+          "date": "2023",
+          "summary": "<p>First <strong>native cross-platform wallet</strong> for Koinos blockchain with multi-account management, integrated DApp browser, and <strong>WalletConnect support</strong>. Available on iOS and Android.</p>",
+          "keywords": [
+            "Blockchain",
+            "Wallet",
+            "Mobile App",
+            "Cross-platform"
+          ],
+          "url": {
+            "label": "konio.io",
+            "href": "https://github.com/konio-io"
+          }
+        },
+        {
+          "id": "kukugames",
+          "visible": true,
+          "name": "Kuku Games",
+          "description": "Blockchain Gaming DApp",
+          "date": "2024",
+          "summary": "<p><strong>Prototype of a decentralized price prediction platform</strong> built on the Koinos blockchain. The DApp utilizes smart contracts for completely automated and transparent management of wagers and rewards, ensuring a provably fair gaming experience.</p>",
+          "keywords": [
+            "Blockchain",
+            "DApp",
+            "Gaming",
+            "Gambling",
+            "Dex"
+          ],
+          "url": {
+            "label": "",
+            "href": "https://kuku.games"
+          }
+        }
+      ]
+    },
+    "publications": {
+      "name": "Publications",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": false,
+      "id": "publications",
+      "items": []
+    },
+    "references": {
+      "name": "References",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": false,
+      "id": "references",
+      "items": []
+    },
+    "skills": {
+      "name": "Skills",
+      "columns": 2,
+      "separateLinks": true,
+      "visible": true,
+      "id": "skills",
+      "items": [
+        {
+          "id": "frontend",
+          "visible": true,
+          "name": "Frontend Development",
+          "description": "Expert",
+          "level": 5,
+          "keywords": [
+            "React",
+            "TypeScript",
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "Vue",
+            "Angular",
+            "React Native",
+            "Tailwind",
+            "Redux"
+          ]
+        },
+        {
+          "id": "backend",
+          "visible": true,
+          "name": "Backend Development",
+          "description": "Expert",
+          "level": 5,
+          "keywords": [
+            "PHP",
+            "Node.js",
+            "JavaScript",
+            "REST API",
+            "Microservices",
+            "Typescript",
+            "GraphQL ",
+            "CQRS"
+          ]
+        },
+        {
+          "id": "blockchain",
+          "visible": true,
+          "name": "Blockchain",
+          "description": "Intermediate",
+          "level": 3,
+          "keywords": [
+            "Koinos",
+            "AssemblyScript",
+            "Smart Contracts",
+            "Smart Accounts",
+            "Wallet Development",
+            "Dapps",
+            "NFT"
+          ]
+        },
+        {
+          "id": "auth",
+          "visible": true,
+          "name": "Authentication & Security",
+          "description": "Advanced",
+          "level": 4,
+          "keywords": [
+            "OpenID Connect",
+            "OAuth 2.0",
+            "WebAuthn",
+            "Passkeys",
+            "Keycloak",
+            "OpenFGA"
+          ]
+        },
+        {
+          "id": "devops",
+          "visible": true,
+          "name": "DevOps & Cloud",
+          "description": "Intermediate",
+          "level": 3,
+          "keywords": [
+            "Docker",
+            "AWS Lambda",
+            "AWS CloudFront",
+            "AWS S3",
+            "AWS EC2",
+            "Git",
+            "Github"
+          ]
+        },
+        {
+          "id": "database",
+          "visible": true,
+          "name": "Database",
+          "description": "Advanced",
+          "level": 4,
+          "keywords": [
+            "MySQL",
+            "SQL",
+            "NoSQL",
+            "MongoDB",
+            "Redis"
+          ]
+        },
+        {
+          "id": "ai",
+          "visible": true,
+          "name": "AI & Machine Learning",
+          "description": "Intermediate",
+          "level": 3,
+          "keywords": [
+            "AI Agents",
+            "LLM Integration",
+            "MCP Server"
+          ]
+        },
+        {
+          "id": "methodologies",
+          "visible": true,
+          "name": "Methodologies",
+          "description": "Advanced",
+          "level": 4,
+          "keywords": [
+            "Agile",
+            "Scrum",
+            "Linear"
+          ]
+        }
+      ]
+    },
+    "custom": {}
+  }
+}
