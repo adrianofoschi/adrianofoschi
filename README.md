@@ -1,89 +1,66 @@
 # Adriano Foschi
 
-Software Engineer specializing in blockchain, distributed systems, and full-stack development. I architect and build production-grade applications with a focus on security, scalability, and user experience.
+Full-stack software engineer with expertise in distributed systems, scalable architecture, and end-to-end product development. I design and build robust applications with a focus on code quality, maintainability, and user experience.
 
 ---
 
 ## About Me
 
-I'm a passionate developer with deep expertise in building decentralized applications and blockchain infrastructure. My work spans smart contract development, mobile applications, TypeScript/JavaScript ecosystems, and cloud infrastructure. I'm committed to writing clean, well-tested code and sharing knowledge with the development community.
+I'm a software engineer passionate about solving complex technical problems and shipping production-grade software. My experience spans full-stack development, cloud infrastructure, and system design. I approach every project with attention to detail and a commitment to clean, well-tested code.
 
 ---
 
 ## My Organizations
 
-I own and actively develop three production-grade software organizations:
+I own and actively develop three software organizations:
 
-### **[Konio](https://github.com/konio-io)** — Native Koinos Wallet
-A comprehensive mobile wallet solution for the Koinos blockchain ecosystem. Konio provides a secure, user-friendly interface for managing digital assets, with 3+ GitHub stars.
+### **[Konio](https://github.com/konio-io)** — Blockchain Wallet
+A mobile wallet application providing secure asset management and seamless integration with blockchain networks. Built with modern technologies for performance and reliability.
 
-**Key Projects:**
-- **konio-mobile** - Native Android/iOS wallet application (TypeScript)
-- **konio-tokenlist** - Dynamic token registry for the Koinos network
-- **konio-dapplist** - Integrated dApp discovery and connection framework
-- **konio-ancient-nft** - Smart contract for NFT collections
-
-[Visit Konio](https://konio.io) | [GitHub Organization](https://github.com/konio-io)
+[Visit Konio](https://konio.io) | [GitHub](https://github.com/konio-io)
 
 ---
 
-### **[Veive Protocol](https://github.com/veive-io)** — Advanced Smart Account Framework
-A modular smart account protocol for Koinos blockchain, enabling sophisticated transaction validation, execution, and authorization mechanisms with 12+ repositories.
+### **[Veive](https://github.com/veive-io)** — Smart Account Protocol
+An advanced smart account framework providing modular transaction validation, execution, and authorization systems. Designed for extensibility and security-first principles.
 
-**Core Architecture:**
-- **mod-execution-as** - Execution module framework for transaction processing
-- **mod-validation-as** - Foundational validation layer for smart contracts
-- **mod-sign-as** - Signature verification and cryptographic authentication
-- **mod-validation-signature-as** - Advanced signature validation patterns
-- **mod-validation-multisign-as** - Multi-signature authorization support
-- **mod-hooks-as** - Pre/post-transaction hook framework
-- **mod-allowance-as** - Pre-authorization validation module
-- **mod-sign-mnemonic-as** - ECDSA secp256k1 signature validation
-- **mod-sign-webauthn-as** - WebAuthn/FIDO2 authentication support
-
-All modules built with TypeScript/JavaScript for maximum reliability and maintainability.
-
-[GitHub Organization](https://github.com/veive-io) | [Documentation](https://docs.veive.io)
+[Documentation](https://docs.veive.io) | [GitHub](https://github.com/veive-io)
 
 ---
 
-### **[Sovrano](https://github.com/sovrano-io)** — Blockchain Privacy & Sovereignty
-Privacy-focused infrastructure and tools for blockchain applications.
+### **[Sovrano](https://github.com/sovrano-io)** — Infrastructure & Privacy
+Privacy-focused infrastructure and tools for decentralized applications.
 
-[GitHub Organization](https://github.com/sovrano-io)
+[GitHub](https://github.com/sovrano-io)
 
 ---
 
 ## Technical Expertise
 
-**Blockchain & Web3**
-- Smart Contract Development (Koinos blockchain)
-- Wallet Integration & Asset Management
-- Cryptographic Authentication (ECDSA, WebAuthn)
-- DeFi protocols & Multi-signature systems
+**Backend & Systems**
+- Node.js, distributed systems architecture
+- Database design and optimization
+- Cloud infrastructure and DevOps
+- API design and integration
 
 **Frontend & Mobile**
-- TypeScript/JavaScript (React, Vue, React Native)
-- Native Mobile Development (Android/iOS)
-- Web3 Integration & dApp development
+- TypeScript, JavaScript (React, Vue, React Native)
+- Native mobile development (iOS, Android)
+- Modern web application development
 
-**Backend & Infrastructure**
-- Node.js & distributed systems
-- Cloud infrastructure & DevOps
-- Database design & optimization
+**Software Craftsmanship**
+- Clean code principles and design patterns
+- Testing and quality assurance
+- System scalability and performance optimization
 
 ---
 
 ## Let's Connect
 
-I'm always interested in discussing:
-- Blockchain architecture and innovation
-- Building production-grade crypto applications
-- Software craftsmanship and best practices
-- Web3 UX and user-centric design
+I'm interested in discussing architecture decisions, software design, and building great products.
 
 Check out my [full CV](https://rxresu.me/adrianofoschi/cv) for detailed experience and qualifications.
 
 ---
 
-**Open to opportunities in:** Blockchain Engineering • Full-Stack Development • Crypto Infrastructure
+**Open to opportunities in:** Backend Engineering • Full-Stack Development • Systems Architecture
